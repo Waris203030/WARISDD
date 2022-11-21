@@ -1,0 +1,78 @@
+body{
+    background-color: #ededed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container{
+    width: 400px;
+    height: 310px;
+    background-color: white;
+    margin-top: 100px;
+    
+    
+
+
+}
+.container h1{
+    text-align: center;
+}
+.inputdiv{
+    margin: 20px 35px;
+   
+}
+.inputdiv label{
+    font-size: 22px;
+}
+.inputdiv input{
+    padding: 8px;
+    width: 100%;
+}
+.btn input{
+    margin: 5px 30px ;
+    padding: 13px 5px;
+    color: white;
+    background-color: black;
+    width: 87%;
+    border: 0;
+    cursor: pointer;
+
+}
+.option{
+    margin-top: 2px auto;
+    text-align: center;
+}
+.sign{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    margin-top: 100px;
+    
+    
+
+
+}
+.inputz{
+    margin: 20px 35px;
+}
+.inputz label{
+    font-size: 22px;
+}
+.inputz input{
+    padding: 8px;
+    width: 100%;
+}
+.btn input{
+    margin: 5px 30px ;
+    padding: 13px 5px;
+    color: white;
+    background-color: black;
+    width: 87%;
+    border: 0;
+    cursor: pointer;
+
+}
+.sign h1{
+    text-align: center;
+}
